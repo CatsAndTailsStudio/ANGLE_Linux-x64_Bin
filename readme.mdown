@@ -1,0 +1,3 @@
+# Pre-compiled Google ANGLE Libs for Linux-x64
+
+Latest and compiled as of November 2023
